@@ -1,0 +1,6 @@
+base: https://demo.themeisle.com/hestia-pro
+paths:
+  - /blog
+
+master:
+  url: https://demo.themeisle.com/hestia    
