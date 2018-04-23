@@ -1,6 +1,7 @@
 base: https://demo.themeisle.com/hestia-pro
 paths:
   - /blog
+  - /shop
 
 master:
-  url: https://demo.themeisle.com/hestia    
+  url: https://demo.themeisle.com/hestia
